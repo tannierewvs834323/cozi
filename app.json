@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/tannierewvs834323/cozi",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
